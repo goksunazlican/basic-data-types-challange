@@ -1,6 +1,7 @@
 # basic-data-types-challange
 
 Inputs: integer, long, char, float and double
+
 Note: the floating point value should be correct up to 3 decimal places and the double to 9 decimal places 
 ```cpp
 int main(int argc, char const *argv[])
